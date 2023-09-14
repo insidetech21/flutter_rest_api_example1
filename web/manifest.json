@@ -1,6 +1,6 @@
 {
-    "name": "http_methods",
-    "short_name": "http_methods",
+    "name": "flutter_rest_api_example",
+    "short_name": "flutter_rest_api_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
